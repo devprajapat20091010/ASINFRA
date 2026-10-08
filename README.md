@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AS Infra Concrete Pvt. Ltd. — Corporate Website
 
 A premium, fully **static** corporate website for **AS Infra Concrete Pvt. Ltd.** — a ready-mix concrete and infrastructure solutions company.
@@ -78,6 +77,3 @@ Then update the path in `data/images.ts` or the relevant data file. Components n
 ## Placeholder policy
 
 Text wrapped in `[square brackets]` is an **editable placeholder**. No company facts, statistics, certifications, awards, projects, clients, addresses, founders, phone numbers or email addresses have been invented. Replace every placeholder with verified information before publishing.
-=======
-# ASINFRA
->>>>>>> 2afa5997013bcba6ffd5f871b1807db0059b6d33
